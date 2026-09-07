@@ -1,44 +1,89 @@
-# Hi, I'm Vishal Dhateria
+<div align="center">
 
-## Technical Product & Engineering Lead
+# Vishal Dhateria
 
-I build AI-powered B2B SaaS, data platforms, enterprise automation, and ConstructionTech products. My work spans the full product lifecycle: understanding ambiguous business problems, shaping workflows, making architecture decisions, leading delivery, validating failure paths, and operating software in production.
+### Technical Product & Engineering Lead
 
-### What I work on
+**I turn ambiguous business workflows into production-grade AI, data, and SaaS products.**
 
-- AI product engineering, LLM/RAG workflows, evaluation, and automation
-- Data platforms, Microsoft Fabric, Power BI, ETL, and analytics
-- B2B SaaS and role-based enterprise applications
-- CRM integrations, data identity, synchronization, and duplicate prevention
-- Construction estimating and BIM/Revit information workflows
-- Engineering leadership, CI/CD, release readiness, and production quality
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-dhateria/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaldhateria@gmail.com)
 
-### Selected work
+</div>
 
-#### AI-assisted GTM and CRM workflows
-Designed and validated workflows connecting company sourcing, ICP scoring, enrichment governance, contact quality, and Zoho CRM synchronization. The work included record-ID-based updates, duplicate prevention, bulk processing, and operational failure analysis.
+---
 
-#### Meeting intelligence
+## What I bring to the table
+
+```text
+BUSINESS PROBLEM
+      ↓
+PRODUCT DECISION
+      ↓
+ARCHITECTURE & DATA
+      ↓
+ENGINEERING DELIVERY
+      ↓
+QUALITY & FAILURE PATHS
+      ↓
+PRODUCTION OUTCOME
+```
+
+I work across the full product lifecycle—discovery, workflow design, architecture, hands-on engineering, team leadership, enterprise integration, release readiness, and production validation.
+
+| AI Product Engineering | Data Platforms |
+|---|---|
+| LLM/RAG workflows, evaluation, automation, meeting intelligence, and applied AI for real operating processes. | Microsoft Fabric, Power BI, ETL, medallion architecture, incremental processing, analytics, and governance. |
+| **Enterprise Products** | **Engineering Leadership** |
+| B2B SaaS, role-based applications, CRM integrations, identity, synchronization, and operational workflows. | Product discovery, architecture decisions, cross-functional delivery, CI/CD, failure analysis, and production quality. |
+
+---
+
+## Selected product stories
+
+### 01 · AI-assisted GTM → CRM workflow
+Designed and validated a workflow connecting company sourcing, ICP scoring, enrichment governance, contact quality, and Zoho CRM synchronization.
+
+`record identity` · `upserts` · `duplicate prevention` · `bulk processing` · `failure diagnostics`
+
+### 02 · Meeting intelligence
 Designed an AI-enabled workflow that converts Microsoft Teams transcripts into customer-level sentiment trends, account-health signals, and actionable insights.
 
-#### BIM/Revit to estimating data
-Defined a product and data framework for converting approved model information into traceable quantities, work context, and model-change intelligence.
+`LLM workflows` · `customer intelligence` · `analytics` · `enterprise data`
 
-#### Microsoft Fabric data platforms
-Designed a simplified medallion approach using governed Bronze data, incremental Silver processing, report-focused Gold models, and centralized orchestration.
+### 03 · BIM/Revit → estimating intelligence
+Defined a product and data framework for converting approved models into traceable quantities, work context, and model-change intelligence.
 
-### Technology
+`persistent identity` · `quantity governance` · `version comparison` · `traceability`
 
-`Python` `FastAPI` `Node.js` `React` `TypeScript` `AWS` `Azure` `Microsoft Fabric` `Power BI` `Docker` `CI/CD` `LLM/RAG` `REST APIs`
+### 04 · Microsoft Fabric modernization
+Designed a simpler medallion approach using governed Bronze data, incremental Silver processing, report-focused Gold models, and centralized orchestration.
 
-### How I approach products
+`Microsoft Fabric` · `incremental processing` · `Power BI` · `data governance`
 
-> Business problem → Product decision → Architecture → Delivery → Quality → Production outcome
+---
 
-I am most effective where a problem is important but not yet clearly defined and where success requires alignment between business users, product decisions, engineering execution, data quality, and production reliability.
+## Technology map
 
-### Connect
+| Product & AI | Data & Analytics | Application | Cloud & Delivery |
+|---|---|---|---|
+| LLM/RAG workflows | Microsoft Fabric | Python / FastAPI | AWS |
+| AI evaluation | Power BI | Node.js | Azure |
+| OCR & automation | ETL / Apache Spark | React / TypeScript | Docker |
+| Agent workflows | Data lakes / Vector DBs | REST APIs | CI/CD |
 
-- [LinkedIn](https://www.linkedin.com/in/vishal-dhateria/)
-- Email: vishaldhateria@gmail.com
+---
 
+## How I think
+
+> The job is not to ship more features. The job is to reduce ambiguity, make sound product and architecture decisions, and deliver a system people can trust in production.
+
+I am especially interested in **Technical Product Lead**, **Engineering Lead**, **AI Solutions Lead**, and **Product Engineering Lead** opportunities involving AI, data platforms, enterprise SaaS, or ConstructionTech.
+
+<div align="center">
+
+**Navi Mumbai, India · Open to high-ownership product and engineering roles**
+
+[LinkedIn](https://www.linkedin.com/in/vishal-dhateria/) · [Email](mailto:vishaldhateria@gmail.com)
+
+</div>
