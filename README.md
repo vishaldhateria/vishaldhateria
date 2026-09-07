@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/profile-banner.svg" alt="Vishal Dhateria — Technical Product and Engineering Lead" width="100%" /></p>
+
 <div align="center">
 
 # Vishal Dhateria
